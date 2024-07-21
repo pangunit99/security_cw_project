@@ -6,5 +6,6 @@
 3. prepare statement sql
 4. sha512 and 256 bit key to encryption password and save on mySQL database
 5. stronger password input
+6. use POST method to transfer data
 7. split input
    
